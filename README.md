@@ -4,71 +4,78 @@
 
 This roadmap guides your journey through the exciting world of C# and .NET development, catering to both beginners and experienced programmers. It provides a structured path for learning and progression, outlining key topics and resources.
 
+### Table of contents
+
+| First Header                                                                       |
+| ---------------------------------------------------------------------------------- |
+| [Programming Fundamentals & C# Syntax](#master-programming-fundamentals--c-syntax) |
+| [Database Design & SQL](#database-design--sql)                                     |
+
 # Part 1: Learning Your Way Up
 
 ## Foundation (Beginner)
 
-- Master programming fundamentals & C# syntax.
+### Master Programming Fundamentals & C# Syntax.
 
-  - <details>
-           <summary><strong>What to learn:</strong></summary>
-                <ul>
-                   <li> Basic Syntax & Data Types & Operators </li>
-                   <li> If & Switch Statement</li>
-                   <li> Rectangular & Jagged Arrays & Indices & Ranges </li>
-                   <li> Strings & Verbatim String Literals (Parse, Formatting, Split, Join) </li>
-                   <li> Switch Expression <i>(C# 8 or later)</i> </li>
-                   <li> Type Casting & Boxing & Unboxing </li>
-                   <li> Value Types & Reference Types (<code>ref & in & out</code>) </li>
-                   <li> Foreach & iterators & yield </li>
-                   <li> Compilation Process </li>
-                   <li> Enums </li>
-                   <li> Classes & Abstracted Class </li>
-                   <li> Indexer & Operator Overload </li>
-                   <li> Interfaces </li>
-                   <li> IComparer vs IComparable  </li>
-                   <li> Records </li>
-                   <li> Pattern Matching With The Switch Statement <i>(C# 7 or later)</i></li>
-                   <li> Delegate & Action & Func & Predicate </li>
-                   <li> Events </li>
-                   <li> Generics & Generic Delegate </li>
-                   <li> 
-                        <details>
-                         <summary> C# Collection </summary>
-                          <ol type="1">
-                           <li> ArrayList </li> 
-                           <li> Dictionary </li> 
-                           <li> Tuple </li> 
-                           <li> List </li> 
-                           <li> LinkedList </li> 
-                           <li> HashSet </li> 
-                           <li> SortedSet </li> 
-                          </ol>
-                        </details> 
-                   </li>
-                   <li> 
-                        <details>
-                         <summary> Stream I/O </summary>
-                          <ol type="1">
-                           <li> Storage Stream (FileStream, MemoryStream and NetworkStream) </li> 
-                           <li> Function Stream (CryptoStream, GZipStream, DeflateStream and AuthenticatedStream) </li> 
-                           <li> Stream Helpers (StreamReader, StreamWriter, BinaryReader and BinaryWriter) </li> 
-                          </ol>
-                        </details> 
-                   </li>
-                   <li> Span & Readonly Span </li>
-                   <li> StringBuilder </li>
-                   <li> Exceptions </li>
-                   <li> Assemblies & Reflection </li>
-                   <li> Threading </li>
-                   <li> Asynchronous (<code>async</code>) </li>
-                   <li> Serialization </li>
-                </ul>
-    </details>
+- <details>
+             <summary><strong>What to learn:</strong></summary>
+                  <ul>
+                     <li> Basic Syntax & Data Types & Operators </li>
+                     <li> If & Switch Statement</li>
+                     <li> Rectangular & Jagged Arrays & Indices & Ranges </li>
+                     <li> Strings & Verbatim String Literals (Parse, Formatting, Split, Join) </li>
+                     <li> Switch Expression <i>(C# 8 or later)</i> </li>
+                     <li> Type Casting & Boxing & Unboxing </li>
+                     <li> Value Types & Reference Types (<code>ref & in & out</code>) </li>
+                     <li> Foreach & iterators & yield </li>
+                     <li> Compilation Process </li>
+                     <li> Enums </li>
+                     <li> Classes & Abstracted Class </li>
+                     <li> Indexer & Operator Overload </li>
+                     <li> Interfaces </li>
+                     <li> IComparer vs IComparable  </li>
+                     <li> Records </li>
+                     <li> Pattern Matching With The Switch Statement <i>(C# 7 or later)</i></li>
+                     <li> Delegate & Action & Func & Predicate </li>
+                     <li> Events </li>
+                     <li> Generics & Generic Delegate </li>
+                     <li> 
+                          <details>
+                           <summary> C# Collection </summary>
+                            <ol type="1">
+                             <li> ArrayList </li> 
+                             <li> Dictionary </li> 
+                             <li> Tuple </li> 
+                             <li> List </li> 
+                             <li> LinkedList </li> 
+                             <li> HashSet </li> 
+                             <li> SortedSet </li> 
+                            </ol>
+                          </details> 
+                     </li>
+                     <li> 
+                          <details>
+                           <summary> Stream I/O </summary>
+                            <ol type="1">
+                             <li> Storage Stream (FileStream, MemoryStream and NetworkStream) </li> 
+                             <li> Function Stream (CryptoStream, GZipStream, DeflateStream and AuthenticatedStream) </li> 
+                             <li> Stream Helpers (StreamReader, StreamWriter, BinaryReader and BinaryWriter) </li> 
+                            </ol>
+                          </details> 
+                     </li>
+                     <li> Span & Readonly Span </li>
+                     <li> StringBuilder </li>
+                     <li> Exceptions </li>
+                     <li> Assemblies & Reflection </li>
+                     <li> Threading </li>
+                     <li> Asynchronous (<code>async</code>) </li>
+                     <li> Serialization </li>
+                  </ul>
+      </details>
 > [!Note]
 > Explore these curated resources to deepen your understanding of specific topics (**you can choose one or more, or none at all!**):
 
-   - <details>
+- <details>
         <summary><strong> Resources:</strong></summary>
         <ol>
           <li> <a href='https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l' target="_blank">[01] - Mastering C#.NET | احترف سي شارب (Metigator | عصام عبدالنبي) </a>
@@ -103,8 +110,36 @@ This roadmap guides your journey through the exciting world of C# and .NET devel
         </ol>
   </details>
 
+### Database Design & SQL
 
-- Explore the .NET and CLI tools.
+- <details>
+         <summary><strong>What to learn:</strong></summary>
+         <ol type='1'> 
+          <li> Database Design </li>
+          <li> Basic SQL Syntax (DDL & DML) </li>
+          <li> Constraints </li>
+          <li> Joins (<code>INNER JOIN & OUTER JOIN</code>) </li>
+          <li> Aggregate Queries </li>
+          <li> Numeric & Conditional Functions </li>
+          <li> String & Date Functions </li>
+          <li> Views </li>
+          <li> Indexes (B+ Tree & Hash index) </li>
+          <li> Transactions </li>
+          <li> Pivot and Unpivot </li>
+          <li> Window Functions </li>
+         </ol>
+    </details>
+- <details>
+         <summary><strong>Resources:</strong></summary>
+         <ol> 
+          <li> <a href='https://youtube.com/playlist?list=PLkpYqKNqc_CvjuJj9Tkic2F0R85BQsogs&si=5El61jCpMfcKLO2m'> Introduction to Databases (Ahmed Younes)</a><strong> (Recommended)</strong> Focuses on <strong>Database Design only</strong>.</li>
+          <li>  <a href='https://youtu.be/kb-_GbpH3sQ?si=wz-fULzP2NMxLAKC'> SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء (بالعربي Big Data)</a><strong> (Recommended)</strong> Focuses on <strong>SQL</strong><i> - note: skip the installation part, Install MySql on your machine directly.</i> 
+          </li>
+          <li> 
+            <a href='https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj'>[02] - Databases (MS. SQL Server) | قواعد البيانات (Metigator | عصام عبدالنبي)</a> you can skip it if you watch the previous video.
+          </li>
+         </ol>
+    </details>
 
 ## Building Applications (Intermediate)
 
