@@ -6,7 +6,7 @@ This roadmap guides your journey through the exciting world of C# and .NET devel
 
 ### Table of contents
 
-| First Header                                                                       |
+| Table of contents                                                                  |
 | ---------------------------------------------------------------------------------- |
 | [Programming Fundamentals & C# Syntax](#master-programming-fundamentals--c-syntax) |
 | [Database Design & SQL](#database-design--sql)                                     |
