@@ -188,32 +188,29 @@ This roadmap guides your journey through the exciting world of C# and .NET devel
                   </ul>
       </details>
 
-## Building Applications (Intermediate)
+### ASP.NET Core MVC
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6S-uLNUmrgCJiQXfXi5KjRJ)
+- [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-- Dive into web development with ASP.NET.
-  - Resources: Microsoft's ASP.NET documentation, Pluralsight's ASP.NET Core Learning Path
-- Tame databases using SQL and Entity Framework.
-  - Resources: W3Schools SQL Tutorial, Microsoft's Entity Framework Core documentation
-- Write robust tests and deploy your creations.
-  - Resources: Microsoft's Unit Testing documentation, xUnit.net documentation, Microsoft's ASP.NET deployment documentation
+### ASP.NET Core API
+- [ITI Recordings - Eng Christine Zareef (Highly Recommended)](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
+- [Passionate Coders (Still recording)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
 
-## Advanced Topics (Experienced)
+## Part 2: Extra
 
-- Explore cloud-native development with Azure.
-  - Resources: Microsoft's Azure documentation, .NET for Cloud-Native Development book
-- Design microservices and APIs.
-  - Resources: Building Microservices by Sam Newman, Microsoft's ASP.NET Core Web API documentation
-- Leverage Machine Learning and AI.
-  - Resources: Microsoft's ML.NET documentation, Azure Cognitive Services documentation
-- Build cross-platform applications with Xamarin or MAUI.
-  - Resources: Microsoft's Xamarin documentation, .NET MAUI documentation
+### API Secure with JWT Authentication
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
 
-# Part 2: Fueling Your Growth
+### SignalR for Real-Time Applications
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
 
-- **Community:** Engage with the active C# and .NET community (forums, GitHub, Discord).
-- **Personal Projects:** Build meaningful projects to solidify your learning.
-- **Stay Updated:** Keep track of the latest advancements.
-- **Documentation:** Leverage comprehensive resources for support (Microsoft's documentation for C# and .NET).
+### Microsoft Azure Cloud Services
+- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu&si=JjZf80QVb0XGxXAc)
+
+### Software Containerization & Docker
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
 
 # Remember
 
