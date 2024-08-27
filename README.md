@@ -39,10 +39,10 @@ This roadmap guides your journey through the exciting world of C# and .NET devel
          <summary><strong>Resources:</strong></summary>
          <ol> 
           <li> <a href='https://youtube.com/playlist?list=PLkpYqKNqc_CvjuJj9Tkic2F0R85BQsogs&si=5El61jCpMfcKLO2m'> Introduction to Databases (Ahmed Younes)</a><strong> (Recommended)</strong> Focuses on <strong>Database Design only</strong>.</li>
-          <li>  <a href='https://youtu.be/kb-_GbpH3sQ?si=wz-fULzP2NMxLAKC'> SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء (بالعربي Big Data)</a> Focuses on <strong>SQL</strong><i> - note: skip the installation part, Install MySql on your machine directly.</i> 
-          </li>
           <li> 
-            <a href='https://www.youtube.com/playlist?list=PLYpJKvLDuJhgMzOXRwUJ2_ZlVt3zSh8PA' target='_blank'> ITI SQL Server Arabic (ITI) </a>
+            <a href='https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2' target='_blank'> ITI SQL Server Arabic (ITI) </a><strong> (Recommended)</strong> </a>
+          </li>
+          <li>  <a href='https://youtu.be/kb-_GbpH3sQ?si=wz-fULzP2NMxLAKC'> SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء (بالعربي Big Data)</a> Focuses on <strong>SQL</strong><i> - note: skip the installation part, Install MySql on your machine directly.</i> 
           </li>
           <li> 
             <a href='https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj'>[02] - Databases (MS. SQL Server) | قواعد البيانات (Metigator | عصام عبدالنبي)</a> you can skip it if you watch the previous video.
