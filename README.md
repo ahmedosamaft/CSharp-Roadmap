@@ -9,6 +9,8 @@ This roadmap guides your journey through the exciting world of C# and .NET devel
 | [Database Design & SQL](#database-design--sql)                                     |
 | [Programming Fundamentals & C# Syntax](#master-programming-fundamentals--c-syntax) |
 | [Entity Framework Core](#entity-framework-core) |
+| [ASP.NET Core MVC](#aspnet-core-mvc) |
+| [ASP.NET Core API](#aspnet-core-api) |
 
 # Part 1: Learning Your Way Up
 
@@ -194,8 +196,8 @@ This roadmap guides your journey through the exciting world of C# and .NET devel
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### ASP.NET Core API
-- [ITI Recordings - Eng Christine Zareef (Highly Recommended)](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
-- [Passionate Coders (Still recording)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+- [Passionate Coders (Still recording) (Highly Recommended)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+- [ITI Recordings - Eng Christine Zareef](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
 
 ## Part 2: Extra
 
